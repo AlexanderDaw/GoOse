@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/advancedlogic/goquery"
+	"github.com/PuerkitoBio/goquery"
 	"github.com/rogpeppe/go-charset/charset"
 )
 
